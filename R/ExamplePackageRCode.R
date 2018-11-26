@@ -20,3 +20,5 @@ proportionofrolls<-function(Rolls=100,DiceSum=c(3,10,11)){
   return(proportionrolls)
   
 }
+
+## we can make some changes
